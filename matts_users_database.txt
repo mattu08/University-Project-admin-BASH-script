@@ -1,0 +1,9 @@
+File made by Matthew Utin, on the (28th Sep 2014). For use with the matts_addusers_script_v2.0.sh
+---------------------------------------------------------------------------------------------------
+Username: Password: Group:
+========= ========= ====== [#!Do Not delete the 4 lines above or the script will not function correctly!#]
+matter tongers testers
+lack09 jack87 testers
+markT80 carboy53 themasters
+mrtong test01 admin
+usermyt68n6 pascomp7f6 testers

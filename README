@@ -1,0 +1,13 @@
+Please read the manual: man ./matts_addusers_script_v2.0.man
+
+To Run the Script/help:
+=========================
+
+View code in Kate, within linux, (Ubuntu).
+
+To Run, You must run as root. e.g. sudo su <Password>. You will then need to change the directory. e.g. cd </home/user/Desktop>
+sudo chmod +x matts_addusers_script.sh
+
+Then use --> ./matts_addusers_script_v2.0.sh <-- to run the script.
+
+End result, you should see something like this: root@user-Pc-05:/home/user/Desktop#./matts_addusers_script_v2.0.sh

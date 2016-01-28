@@ -1,0 +1,4 @@
+BugFixed on option 3, corrupt Hex values. Now deleted and changed on (Fri 14th mar 2015).
+The script user can now make a file executable. Added on (Sat 27th Sep 2014).
+The script user can now add users from a text file. Added on (Fri 26th Sep 2014).
+The script user can now delete users from the system using a text file. Added on (Fri 26th Sep 2014).

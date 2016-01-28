@@ -1,0 +1,65 @@
+.\" Manpage for Matts_addusers_script_v2.0.sh
+.\" Contact 0utinm77@solent.ac.uk to correct errors.
+.TH man 7 "26 Oct 2014" "2.0" "Matts_addusers_script_v2.0.sh."
+.SH NAME
+.B
+Matt's System Administrative Tools For Linux V2.0
+.SH SYNOPSIS
+View code in Kate, within linux, (Ubuntu).
+
+To Run, You must run as root. e.g. sudo su <Password>. You will then need to change the directory. e.g. cd </home/user/Desktop>
+sudo chmod +x matts_addusers_script.sh
+
+Then use --> ./matts_addusers_script_v2.0.sh <-- to run the script.
+
+End result, you should see something like this: root@user-Pc-05:/home/user/Desktop#./matts_addusers_script_v2.0.sh
+
+.SH DESCRIPTION
+A lot of companies are just starting to get
+invaded in using Linux systems this is mostly
+because of cost because Linux is free and
+open to use, but as it is free to use it is not
+the most user friendly system to use,
+although it has been created to be more
+reliable, in this case I am going to create a
+user script that can be used to create new
+users, user groups, manage system feathers
+and preform administrative tasks. As one of
+the main problems of Linux, Is that you
+would need to have some knowledge of
+using the systems command line interface,
+to get anything to work correctly and if you
+do not know this or are not that technically
+minded you will struggle, as you would have
+to type in every command in correctly.
+
+This is why i have created an easy to use tool to help complete daliy system tasks.
+.SH OPTIONS
+When you strat the [script], you will be given a list
+of commands that can be used:
+
+(1) Create a regular user.
+(2) Create a root/admin user.
+(3) Add a usergroup to a user.
+(4) Create a new usergroup.
+(5) Show the usergroups that a user is linked to.
+(6) Show all usergroups on the system.
+(7) Show all users on the system.
+(8) Remove a usergroup from a user.
+(9) Remove/delete usergroup from system.
+(10) Remove User and home directory or just the user account.
+(11) Make a file executable.
+(12) Add users to the system from a text file.
+(13) Delete users from the system using a text file.
+
+.SH BUGS
+There are no known major bugs. There is one minor bug that is, the flashing blue time on the options page will only flash in Xterm. But for the best results when operating the script. Run in: GNOME Terminal, tested on GNOME Terminal version 3.6.2.
+
+.SH COPYRIGHTS
+Licence: LGPL, (c) Matthew Utin 2014-2
+You can use this code in any tool but you must credit it.
+There are going to be Detailed comments provided for use in this tool.
+
+.SH AUTHOR
+Matthew Utin (0utinm77@solent.ac.uk)
+
