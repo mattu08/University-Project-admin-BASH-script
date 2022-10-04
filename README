@@ -17,6 +17,7 @@ End result, you should see something like this: root@user-Pc-05:/home/user/Deskt
 The project was created to explore and resolve a problem with a slow workflow in the ACME Company, due to performing daily administrative system task manually e.g. adding new users, creating new user groups and removing users. A solution was explored and then developed, to speed up the workflow of performing these tasks with the use of script automation to solve and address the current problem. This project also identifies which scripting language is best suited through the use of analysis, from script comparisons with the justification of the use of BASH script. The final implemented script was then packaged and submitted with a user feedback survey, to gain a user’s response from the administrative script. The data collected has shown that the script was successful in showing that system automation is speeding up, workflow when performing system tasks. Moreover recommendations were given in script automation with future work and research.
 
 Main Research in:
+===================
 
 • (Human interaction, with system automation)
 
